@@ -1,7 +1,7 @@
-## :rainbow: 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## :rainbow: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" width="60px"> 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<h1 align="left">Hi 👋, My Name is Alok Raj Singh</h1>
-<h3 align="left">git commit -m "Hello, I am a a Software Engineer at Java R&D"</h3>
+<h2 align="left">My Name is Alok Raj Singh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="100px"></h2>
+<h3 align="left">git commit -m "I am a a Software Engineer at Java R&D"</h3>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://alok255.github.io/):sparkles:
 
@@ -13,7 +13,7 @@
 <h3> You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/alok255/alok255/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me at absphreak@outlook.com </h3>
+or <a href="mailto:alokrajsingh255@gmail.com"><b>email</b></a> me at alokrajsingh255@gmail.com </h3>
 
 
 
