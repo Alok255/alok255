@@ -1,7 +1,7 @@
 ## :rainbow: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" width="60px"> 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h2 align="left">My Name is Alok Raj Singh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="100px"></h2>
-<h3 align="left">git commit -m "I am a a Software Engineer at Java R&D"</h3>
+<h3 align="left">git commit -m "I am a Software Engineer at Java R&D"</h3>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://alok255.github.io/):sparkles:
 
